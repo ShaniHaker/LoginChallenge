@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginChallengeApp</string>
+    <string name="success_string">You\'ve completed all 4 login steps successfully.\nYou\'re now logged in!</string>
+    <string name="start_login_process">Start Login Process</string>
+    <string name="step_counter">Step 0 out of 3</string>
+    <string name="four_steps_login">Four Steps Login</string>
+    <string name="success">Success!</string>
+</resources>
