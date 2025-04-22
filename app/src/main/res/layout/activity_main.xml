@@ -12,7 +12,7 @@
     <!-- Title -->
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/titleText"
-        android:text="@string/four_steps_login"
+        android:text="@string/five_steps_login"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="?android:textColorPrimary"
